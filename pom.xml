@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
-  <name>Ebay Project</name>
+  <name>EBay Project</name>
     <url>http://maven.apache.org</url>
     <description>General purpose test automation framework for Java. Based on Concordion and Selenium2</description>
 
